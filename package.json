@@ -17,7 +17,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "nodemon demo",
+    "start": "nodemon demo",
     "json-server": "json-server --watch ./Data/db.json"
   },
   "author": "",
